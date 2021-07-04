@@ -6,9 +6,3 @@ print 'The addition of a and b is: ',c
 #perform subtraction of a and b
 d = a-b
 print 'The addition of a and b is: ',d
-#perform multiplication of a and b
-e = a*b
-print 'The multiplication of a and b is: ',e
-#perform division of a and b
-e = a/b
-print 'The division of a and b is: ',e
