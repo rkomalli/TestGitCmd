@@ -8,7 +8,7 @@ d = a-b
 print 'The addition of a and b is: ',d
 #perform multipplication of a and b
 e = a*b
-print 'The addition of a and b is: ',e
+print 'The multiplication of a and b is: ',e
 #perform division of a and b
 f = a/b
 print 'The division of a and b is: ',f
