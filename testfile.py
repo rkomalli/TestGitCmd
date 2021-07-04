@@ -1,5 +1,5 @@
 a = 10
-b = 0
+b = 100
 #perform addition of a and b
 c = a+b
 print 'The addition of a and b is: ',c
